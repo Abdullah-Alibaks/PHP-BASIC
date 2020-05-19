@@ -1,7 +1,7 @@
 # PHP-BASIC-TAAK-01
 ## Syntax
 ## Uitleg
-Tegen computers kan je _niet_ zoals tegen mensen op heel veel verschillende manieren iets zeggen. Je moet tegen een computer duidelijke taal gebruiken!!
+Tegen computers kan je _niet_ zoals tegen mensen op heel veel verschillende manieren iets zeggen. Je moet tegen een computer duidelijke taal gebruiken!! test
 >
 >_Als je niet de juiste taal gebruikt snapt PHP niet wat je bedoelt!._
 > 
