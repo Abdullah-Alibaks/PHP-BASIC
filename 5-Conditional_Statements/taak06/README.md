@@ -14,7 +14,8 @@ In PHP heb je verschillende soorten logical operators namelijk:
 >* `&&`: True als beide waardes waar zijn
 >* `||`: True als een of beide van de twee waardes waar zijn
 >* `xor`: True als een van de twee waardes waar is maar niet beide
->* `!`: (staat voor Not) True als de vergelijking niet waar is
+>* `
+`: (staat voor Not) True als de vergelijking niet waar is
 
 **In PHP zijn dit de regels voor het opschrijven van een logical operator:**
 * Zet eerst de eerste vergelijking neer zoals `$x < 10`
